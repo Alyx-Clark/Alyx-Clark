@@ -14,5 +14,5 @@ _____________________________________
    
    [![Alyx-Clark's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alyx-Clark)](https://github.com/Alyx-Clark/github-readme-stats)
    
-   ![Alyx-Clark's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alyx-Clark&show_icons=true&theme=tokyonight)
+   ![Alyx-Clark's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alyx-Clark&show_icons=true&theme=cobalt)
 

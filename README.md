@@ -1,5 +1,6 @@
 # Alex-Clark
 
+
 _____________________________________
 < Welcome to my personal github page! >
  ------------------------------------- 
@@ -8,5 +9,7 @@ _____________________________________
             (__)\       )\/\
                 ||----w |
                 ||     ||
+                
+                
 
 ![Youtube gif](https://github.com/Alyx-Clark/Alyx-Clark/raw/main/erased-satoru.gif)

@@ -1,6 +1,11 @@
 ### Alex-Clark
+
+
+
+
+
 _____________________________________
-#### < Welcome to my personal github page! >
+< Welcome to my personal github page! >
  ------------------------------------- 
         \   ^__^
          \  (oo)\_______

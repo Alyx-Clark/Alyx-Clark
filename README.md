@@ -10,4 +10,6 @@ _____________________________________
                 
                                                                                     
 
-   ![Youtube gif](https://github.com/Alyx-Clark/Alyx-Clark/raw/main/erased-satoru.gif)                                                                                   
+   ![Youtube gif](https://github.com/Alyx-Clark/Alyx-Clark/raw/main/erased-satoru.gif) 
+   
+   [![Alyx-Clark's GitHub stats](https://github-readme-stats.Alyx-Clark.app/api?username=Alyx-Clark)](https://github.com/Alyx-Clark/github-readme-stats)

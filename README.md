@@ -8,6 +8,12 @@
 <a href="https://discord.gg/y7ahmrZ8" target="_blank">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/discord.png" />
 </a>
+<a href="mailto:alexclark.edu@gmail.com" target="_blank">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/gmail.png" />
+</a>
+<a href="https://angel.co/u/alex-clark-36" target="_blank">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/angellist.png" />
+</a>
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/name.svg" alt="Marton Lederer" />
 </h1>

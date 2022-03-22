@@ -8,7 +8,7 @@
 ## Hey! 👋
 I'm Alex, a 26 year old software engineer from Ohio!
 
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
+- 🧭 Graduate of [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
 
 - 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
 
@@ -19,9 +19,10 @@ I'm Alex, a 26 year old software engineer from Ohio!
 - 💽 SQL, Mongo
 
 ## Contact
-- [Alex B. Clark](https://www.linkedin.com/in/alex-b-clark/) on LinkIn
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](https://twitter.com/instagram) on Instagram
+- [Alex B. Clark](https://www.linkedin.com/in/alex-b-clark/) on LinkedIn
+- [@martonlederer](https://twitter.com/Alyx__Clark) on Twitter
+- [Alex Clark](https://angel.co/u/alex-clark-36) on AngelList
 - [ALYX#4288](./) on Discord
+
                                                                                     
 

@@ -8,9 +8,7 @@
 ## Hey! 👋
 I'm Alex, a 26 year old software engineer from Ohio!
 
-- 🧭 Graduate of [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
-
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
+- 🧭 Graduate of [AppAcademy](https://www.appacademy.io/) and [Wright State University](https://www.wright.edu/)
 
 ## Skills
 - 👨‍💻 JavaScript, Ruby

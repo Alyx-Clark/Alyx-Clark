@@ -18,7 +18,6 @@ I'm Alex, a 26 year old software engineer from Ohio!
 
 ## Contact
 - [Alex B. Clark](https://www.linkedin.com/in/alex-b-clark/) on LinkedIn
-- alexclark.edu@gmail.com on Gmail
 - [@Alyx_Clark](https://twitter.com/Alyx__Clark) on Twitter
 - [Alex Clark](https://angel.co/u/alex-clark-36) on AngelList
 - [ALYX#4288](./) on Discord

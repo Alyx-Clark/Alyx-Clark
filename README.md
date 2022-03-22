@@ -5,7 +5,7 @@
 
 ![Alyx-Clark's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alyx-Clark&show_icons=true&theme=jolly)
 
-## Hey! 👋
+## Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 I'm Alex, a 26 year old software engineer from Ohio!
 
 - 🧭 Graduate of [AppAcademy](https://www.appacademy.io/) and [Wright State University](https://www.wright.edu/)

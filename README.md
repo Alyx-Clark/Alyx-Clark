@@ -19,8 +19,8 @@
 </h1>
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alyx-Clark&theme=jolly&layout=compact&hide_rank=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alyx-Clark&layout=compact&theme=jolly" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alyx-Clark&theme=jolly&layout=compact&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alyx-Clark&layout=compact&theme=jolly&show_icons=true" />
 </p>
 
 ## Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">

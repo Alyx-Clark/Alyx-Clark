@@ -33,9 +33,3 @@ I'm Alex, a 26 year old software engineer from Ohio!
 - ⚙️ Ruby on Rails, Node.js, Express.js, MongoDB, Mongoose
 - 👁️ SASS, CSS, HTML5, React, Redux
 - 💽 SQL, Git, jQuery, AWS S3, Heroku, Webpack
-
-## Contact
-- [Alex Clark](https://angel.co/u/alex-clark-36) on AngelList
-
-                                                                                    
-

@@ -1,11 +1,11 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=$[Alyx-Clark].$[README.md]&left_color=purple&right_color=indigo)
-<a href="https://www.linkedin.com/in/alex-b-clark/">
+<a href="https://www.linkedin.com/in/alex-b-clark/" target="_blank">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/linkedin.png" />
 </a>
-<a href="https://twitter.com/Alyx__Clark">
+<a href="https://twitter.com/Alyx__Clark" target="_blank">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/twitter.svg" />
 </a>
-<a href="https://discord.gg/y7ahmrZ8">
+<a href="https://discord.gg/y7ahmrZ8" target="_blank">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/discord.png" />
 </a>
 <h1 align="center">
@@ -26,10 +26,7 @@ I'm Alex, a 26 year old software engineer from Ohio!
 - 💽 SQL, Mongo
 
 ## Contact
-- [Alex B. Clark](https://www.linkedin.com/in/alex-b-clark/) on LinkedIn
-- [@Alyx_Clark](https://twitter.com/Alyx__Clark) on Twitter
 - [Alex Clark](https://angel.co/u/alex-clark-36) on AngelList
-- [ALYX#4288](./) on Discord
 
                                                                                     
 

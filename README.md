@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=$[Alyx-Clark].$[README.md]&left_color=#291B3E&right_color=DD58C1)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=$[Alyx-Clark].$[README.md]&left_color="#291B3E"&right_color="#DD58C1")
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/name.svg" alt="Marton Lederer" />
 </h1>

@@ -18,7 +18,7 @@
   <img src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/name.svg" alt="Marton Lederer" />
 </h1>
 
-<p float="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alyx-Clark&theme=jolly&layout=compact&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alyx-Clark&layout=compact&theme=jolly&show_icons=true" />
 </p>

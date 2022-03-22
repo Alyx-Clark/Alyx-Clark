@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=$[Alyx-Clark].$[README.md]&left_color=purple&right_color=indigo)
-<a href="">
-  <img align="left" alt="alex linkedin" />
+<a href="https://www.linkedin.com/in/alex-b-clark/">
+  <img align="left" alt="alex linkedin" width="22px" src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/linkedin.png" />
 </a>
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/name.svg" alt="Marton Lederer" />

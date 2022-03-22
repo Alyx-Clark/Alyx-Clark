@@ -2,6 +2,12 @@
 <a href="https://www.linkedin.com/in/alex-b-clark/">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/linkedin.png" />
 </a>
+<a href="https://twitter.com/Alyx__Clark">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/twitter.svg" />
+</a>
+<a href="https://discord.gg/y7ahmrZ8">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/discord.png" />
+</a>
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/name.svg" alt="Marton Lederer" />
 </h1>

@@ -1,9 +1,9 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=$[Alyx-Clark].$[README.md]&left_color=purple&right_color=indigo)
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/name.svg" alt="Marton Lederer" align="center" />
+  <img src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/name.svg" alt="Marton Lederer" />
 </h1>
 
-![Alyx-Clark's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alyx-Clark&show_icons=true&theme=jolly)
+<p align="center"> ![Alyx-Clark's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alyx-Clark&show_icons=true&theme=jolly)
 
 ## Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm Alex, a 26 year old software engineer from Ohio!

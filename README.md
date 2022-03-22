@@ -19,6 +19,7 @@
 </h1>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Alyx-Clark&show_icons=true&theme=jolly" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alyx-Clark&layout=compact&theme=jolly" />
 
 ## Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm Alex, a 26 year old software engineer from Ohio!

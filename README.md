@@ -20,10 +20,10 @@ I'm Alex, a 26 year old software engineer from Ohio!
 - 🧭 Graduate of [AppAcademy](https://www.appacademy.io/) and [Wright State University](https://www.wright.edu/)
 
 ## Skills
-- 👨‍💻 JavaScript, Ruby
-- ⚙️ React, Redux
-- 👁️ SASS, CSS
-- 💽 SQL, Mongo
+- 👨‍💻 JavaScript, Ruby, C++, Python, MATLAB
+- ⚙️ Ruby on Rails, Node.js, Express.js, MongoDB, Mongoose
+- 👁️ SASS, CSS, HTML5, React, Redux
+- 💽 SQL, Git, jQuery, AWS S3, Heroku, Webpack
 
 ## Contact
 - [Alex Clark](https://angel.co/u/alex-clark-36) on AngelList

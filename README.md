@@ -2,7 +2,7 @@
 ![Alyx-Clark's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alyx-Clark&show_icons=true&theme=cobalt)
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+  <img src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/name.svg" alt="Marton Lederer" />
 </h1>
 
 ## Hey! 👋

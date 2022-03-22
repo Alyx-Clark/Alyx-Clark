@@ -18,8 +18,10 @@
   <img src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/name.svg" alt="Marton Lederer" />
 </h1>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Alyx-Clark&theme=jolly&layout=compact&hide_rank=true" />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alyx-Clark&layout=compact&theme=jolly" />
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alyx-Clark&theme=jolly&layout=compact&hide_rank=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alyx-Clark&layout=compact&theme=jolly" />
+</p>
 
 ## Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm Alex, a 26 year old software engineer from Ohio!

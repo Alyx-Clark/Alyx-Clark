@@ -1,5 +1,5 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=$[Alyx-Clark].$[README.md]&left_color=purple&right_color=indigo)
 <div display=flex justify-content=space-between>
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=$[Alyx-Clark].$[README.md]&left_color=purple&right_color=indigo)
   <a href="https://www.linkedin.com/in/alex-b-clark/">
     <img align="left" width="22px" src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/linkedin.png" />
   </a>

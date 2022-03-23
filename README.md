@@ -15,7 +15,7 @@
   <img align="left" width="22px" src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/angellist.png" />
 </a>
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/name.svg" alt="Marton Lederer" />
+  <img src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/name.svg" />
 </h1>
 
 <p align="center">

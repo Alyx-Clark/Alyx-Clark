@@ -15,7 +15,7 @@
   <img align="left" width="22px" src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/angellist.png" />
 </a>
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/name3.svg" />
+  <img src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/name4.svg" />
 </h1>
 
 <p align="center">

@@ -20,7 +20,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alyx-Clark&theme=jolly&show_icons=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alyx-Clark&theme=jolly&show_icons=true&langs_count=3&border_radius=3" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alyx-Clark&theme=jolly&show_icons=true&langs_count=3&border_radius=true" />
 </p>
 
 ## Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">

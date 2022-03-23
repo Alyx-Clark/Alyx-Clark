@@ -18,10 +18,12 @@
   <img src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/name4.svg" />
 </h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alyx-Clark&theme=jolly&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=11&line_height=27&custom_title=GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alyx-Clark&theme=jolly&show_icons=true&hide_border=true&langs_count=3&border_radius=11&line_height=27" />
-</p>
+<table align="center">
+  <tr>
+    <img src="https://github-readme-stats.vercel.app/api?username=Alyx-   Clark&theme=jolly&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=11&line_height=27&custom_title=GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alyx-Clark&theme=jolly&show_icons=true&hide_border=true&langs_count=3&border_radius=11&line_height=27" />
+  <tr>
+</table>
 
 ## Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm Alex, a 26 year old software engineer from Ohio. Passionate about full stack web development, building software to interact with hardware, and soccer⚽. Connect with me through my socials linked at the top!

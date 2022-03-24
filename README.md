@@ -18,11 +18,6 @@
   <img src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/name4.svg" />
 </h1>
 
-<div>
-  <img align=top src="https://github-readme-stats.vercel.app/api?username=Alyx-Clark&theme=jolly&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=11&line_height=27&custom_title=GitHub Stats" />
-  <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alyx-Clark&theme=jolly&show_icons=true&hide_border=true&langs_count=3&border_radius=11&line_height=27" />
-<div>
-
 ## Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm Alex, a 26 year old software engineer from Ohio. Passionate about full stack web development, building software to interact with hardware, and soccer⚽. Connect with me through my socials linked at the top!
 
@@ -34,3 +29,8 @@ I'm Alex, a 26 year old software engineer from Ohio. Passionate about full stack
 - ⚙️ Ruby on Rails, Node.js, Express.js, MongoDB, Mongoose
 - 👁️ SASS, CSS, HTML5, React, Redux
 - 💽 SQL, Git, jQuery, AWS S3, Heroku, Webpack
+
+<div>
+  <img align=top src="https://github-readme-stats.vercel.app/api?username=Alyx-Clark&theme=jolly&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=11&line_height=27&custom_title=GitHub Stats" />
+  <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alyx-Clark&theme=jolly&show_icons=true&hide_border=true&langs_count=3&border_radius=11&line_height=27" />
+<div>

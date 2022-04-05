@@ -21,7 +21,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alyx-Clark&margin-w=35&theme=dracula&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
   
 ## Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+GitHub&size=15&color=purple)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+GitHub&size=25&color=8D1794)](https://git.io/typing-svg)
 
 I'm Alex, a 26 year old software engineer from Ohio. Passionate about full stack web development, building software to interact with hardware, and soccer⚽. Connect with me through my socials linked at the top!
 

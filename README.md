@@ -11,7 +11,7 @@
 <a href="mailto:alexclark.edu@gmail.com">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/gmail.png" />
 </a>
-<a href="https://angel.co/u/alex-clark-36">
+<a href="https://angel.co/u/alyx-clark">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/Alyx-Clark/Alyx-Clark/main/angellist.png" />
 </a>
 <h1 align="center">

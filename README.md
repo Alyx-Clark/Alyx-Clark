@@ -35,6 +35,6 @@ I'm Alex, a 28 year old software developer from Ohio. Passionate about full stac
 - 💽 SQL, Git, jQuery, AWS S3, Heroku, Webpack
 
 <div align="center">
-  <img align=top src="https://github-readme-stats.vercel.app/api?username=Alyx-Clark&theme=jolly&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=11&line_height=27&custom_title=Github Stats" />
+  <img align=top src="https://github-readme-stats.vercel.app/api?username=Alyx-Clark&theme=jolly&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=11&line_height=27" />
   <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alyx-Clark&theme=jolly&show_icons=true&hide_border=true&langs_count=3&border_radius=11&line_height=27" />
 <div>

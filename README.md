@@ -20,18 +20,18 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alyx-Clark&margin-w=35&theme=dracula&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
   
-## Hi :)
+## If you're wondering if you should hire me....you should
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+GitHub&size=25&color=8D1794)](https://git.io/typing-svg)
 
-I'm Alex, a 27 year old software engineer from Ohio. Passionate about full stack web development, building software to interact with hardware and soccer⚽. Connect with me through my socials linked at the top!
+I'm Alex, a 28 year old software developer from Ohio. Passionate about full stack web development, building software to interact with hardware and soccer⚽. Connect with me through my socials linked at the top!
 
 
 - 🧭 Graduate of [AppAcademy](https://www.appacademy.io/) and [Wright State University](https://www.wright.edu/)
 
 ## Skills
-- 👨‍💻 JavaScript, Ruby, C++, Python, MATLAB
+- 👨‍💻 JavaScript, Ruby, C++, Python, PHP
 - ⚙️ Ruby on Rails, Node.js, Express.js, MongoDB, Mongoose
-- 👁️ SASS, CSS, HTML5, React, Redux
+- 👁️ SASS, CSS, HTML5, React, Redux, Vue
 - 💽 SQL, Git, jQuery, AWS S3, Heroku, Webpack
 
 <div align="center">

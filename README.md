@@ -23,7 +23,7 @@
 ## If you're wondering if you should hire me....you should
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+GitHub&size=25&color=8D1794)](https://git.io/typing-svg)
 
-I'm Alex, a 28 year old software developer from Ohio. Passionate about full stack web development, building software to interact with hardware and soccer ⚽. Connect with me through my socials linked at the top!
+I'm Alex, a software developer from Ohio. Passionate about full stack web development, building software to interact with hardware and soccer ⚽. Connect with me through my socials linked at the top!
 
 
 - 🧭 Graduate of [AppAcademy](https://www.appacademy.io/) and [Wright State University](https://www.wright.edu/)

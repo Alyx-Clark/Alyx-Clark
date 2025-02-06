@@ -20,7 +20,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alyx-Clark&margin-w=35&theme=dracula&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
   
-## If you're wondering if you should hire me....you should
+## 10x developer
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+GitHub&size=25&color=8D1794)](https://git.io/typing-svg)
 
 I'm Alex, a software developer from Ohio. Passionate about full stack web development. Connect with me through my socials linked at the top!
